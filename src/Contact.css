@@ -1,0 +1,27 @@
+.Contact{
+    min-height:50vh;
+    text-align: center;
+    padding-top:150px;
+    background-color:white;
+    color:#2b2b2b;
+   
+}
+.contacts{
+display:flex;
+justify-content:space-around;
+font-size:25px;
+
+}
+@media (max-width: 900px) {
+    .contacts{
+        flex-direction:column;
+        justify-content:center;
+        align-items:center;
+    }
+}
+.contacts h2{
+    font-size:35px;
+}
+.contacts p{
+    letter-spacing: 2px;
+}

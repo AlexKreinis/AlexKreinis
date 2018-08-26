@@ -1,0 +1,25 @@
+.AboutMe{
+    min-height:40vh;
+    text-align: center;
+    padding-top:150px;
+    background-color:#2b2b2b;
+   
+ 
+}
+.description{
+    margin-right:auto;
+    margin-left:auto;
+     width: 55.66666667%;
+}
+.AboutMe h4{
+    color:white;
+    font-size:55px;
+    letter-spacing: 3px;
+}
+.AboutMe p{
+   
+    color:white;
+    font-size:25px;
+    letter-spacing: 1px;
+    text-align:center;
+}
